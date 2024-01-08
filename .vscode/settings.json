@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project_name": "Try",
+    "id": "65956cb77274725eac6f89f6",
+    "framework": "html-css",
+    "typescript": false,
+    "path": "public/",
+    "componentsPath": "/home/thejas/Desktop/JITSIE/t/src/components",
+    "screensPath": "/home/thejas/Desktop/JITSIE/t/src/pages",
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case"
+  }
+}
